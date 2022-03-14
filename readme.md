@@ -3,7 +3,7 @@
 Hi! My name is Aleksandra Wieczorek.
 I am intrested in software testing.
 My goal is to learn about testing and improve technical skills.
-On this page, i want to share my experience in learning software testing.
+On this page, I want to share my experience in learning software testing.
 
 ## Tools
 
@@ -40,3 +40,6 @@ On this page, i want to share my experience in learning software testing.
 ## My bug reports
 
 [bug reports](Zgłoszenia%20błędów%20-%20Arkusz1.pdf)
+
+## My SQL queries
+[SQL code](kod.sql)
