@@ -8,8 +8,8 @@ On this page, I want to share my experience in learning software testing.
 ## Tools
 
 - Postman - testing tool for REST API
-- Jira - issue tracking and project management tool for developers
-- TestLink - writing test case's
+- Jira - issue tracking and project management tool
+- TestLink - writing test cases
 
 ## Tech skills
 
@@ -27,11 +27,11 @@ On this page, I want to share my experience in learning software testing.
 - R. Smiglin "Zawód tester"
 - K. Jadczyk "Pasja testowania"
 
-## Coureses
+## Trainings
 
-- Learn CSS on Codecademy
-- Learn HTML on Codecademy
-- Learn SQL on Codecademy
+- CSS on Codecademy
+- HTML on Codecademy
+- SQL on Codecademy
 
 ## My test cases
 
